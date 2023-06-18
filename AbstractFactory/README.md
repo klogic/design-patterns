@@ -3,7 +3,7 @@
 ### When to Use
 
 - use when have 1 product family for each class
-- each product have spicific implementation clearly. eg. implement windowGUI and macGUI
+- each product have specific implementation clearly. eg. implement windowGUI and macGUI
 
 ### Example
 
